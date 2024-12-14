@@ -1,0 +1,153 @@
+[
+    {
+      "email": "vendor1@example.com",
+      "idcard": "1234567890123451",
+      "isBlock": false,
+      "mobile": 9876543210,
+      "password": "password123",
+      "role": "vendor",
+      "vendorlicense": "VENDOR1LICENSE",
+      "vendorName": "Vendor One"
+    },
+    {
+      "email": "vendor2@example.com",
+      "idcard": "1234567890123452",
+      "isBlock": true,
+      "mobile": 9876543211,
+      "password": "password124",
+      "role": "vendor",
+      "vendorlicense": "VENDOR2LICENSE",
+      "vendorName": "Vendor Two"
+    },
+    {
+      "email": "vendor3@example.com",
+      "idcard": "1234567890123453",
+      "isBlock": false,
+      "mobile": 9876543212,
+      "password": "password125",
+      "role": "vendor",
+      "vendorlicense": "VENDOR3LICENSE",
+      "vendorName": "Vendor Three"
+    },
+    {
+      "email": "vendor4@example.com",
+      "idcard": "1234567890123454",
+      "isBlock": false,
+      "mobile": 9876543213,
+      "password": "password126",
+      "role": "vendor",
+      "vendorlicense": "VENDOR4LICENSE",
+      "vendorName": "Vendor Four"
+    },
+    {
+      "email": "vendor5@example.com",
+      "idcard": "1234567890123455",
+      "isBlock": true,
+      "mobile": 9876543214,
+      "password": "password127",
+      "role": "vendor",
+      "vendorlicense": "VENDOR5LICENSE",
+      "vendorName": "Vendor Five"
+    },
+    {
+      "email": "vendor6@example.com",
+      "idcard": "1234567890123456",
+      "isBlock": false,
+      "mobile": 9876543215,
+      "password": "password128",
+      "role": "vendor",
+      "vendorlicense": "VENDOR6LICENSE",
+      "vendorName": "Vendor Six"
+    },
+    {
+      "email": "vendor7@example.com",
+      "idcard": "1234567890123457",
+      "isBlock": false,
+      "mobile": 9876543216,
+      "password": "password129",
+      "role": "vendor",
+      "vendorlicense": "VENDOR7LICENSE",
+      "vendorName": "Vendor Seven"
+    },
+    {
+      "email": "vendor8@example.com",
+      "idcard": "1234567890123458",
+      "isBlock": true,
+      "mobile": 9876543217,
+      "password": "password130",
+      "role": "vendor",
+      "vendorlicense": "VENDOR8LICENSE",
+      "vendorName": "Vendor Eight"
+    },
+    {
+      "email": "vendor9@example.com",
+      "idcard": "1234567890123459",
+      "isBlock": false,
+      "mobile": 9876543218,
+      "password": "password131",
+      "role": "vendor",
+      "vendorlicense": "VENDOR9LICENSE",
+      "vendorName": "Vendor Nine"
+    },
+    {
+      "email": "vendor10@example.com",
+      "idcard": "1234567890123460",
+      "isBlock": false,
+      "mobile": 9876543219,
+      "password": "password132",
+      "role": "vendor",
+      "vendorlicense": "VENDOR10LICENSE",
+      "vendorName": "Vendor Ten"
+    },
+    {
+      "email": "vendor11@example.com",
+      "idcard": "1234567890123461",
+      "isBlock": true,
+      "mobile": 9876543220,
+      "password": "password133",
+      "role": "vendor",
+      "vendorlicense": "VENDOR11LICENSE",
+      "vendorName": "Vendor Eleven"
+    },
+    {
+      "email": "vendor12@example.com",
+      "idcard": "1234567890123462",
+      "isBlock": false,
+      "mobile": 9876543221,
+      "password": "password134",
+      "role": "vendor",
+      "vendorlicense": "VENDOR12LICENSE",
+      "vendorName": "Vendor Twelve"
+    },
+    {
+      "email": "vendor13@example.com",
+      "idcard": "1234567890123463",
+      "isBlock": true,
+      "mobile": 9876543222,
+      "password": "password135",
+      "role": "vendor",
+      "vendorlicense": "VENDOR13LICENSE",
+      "vendorName": "Vendor Thirteen"
+    },
+    {
+      "email": "vendor14@example.com",
+      "idcard": "1234567890123464",
+      "isBlock": false,
+      "mobile": 9876543223,
+      "password": "password136",
+      "role": "vendor",
+      "vendorlicense": "VENDOR14LICENSE",
+      "vendorName": "Vendor Fourteen"
+    },
+    {
+      "email": "vendor15@example.com",
+      "idcard": "1234567890123465",
+      "isBlock": true,
+      "mobile": 9876543224,
+      "password": "password137",
+      "role": "vendor",
+      "vendorlicense": "VENDOR15LICENSE",
+      "vendorName": "Vendor Fifteen"
+    }
+  ]
+  

@@ -16,6 +16,15 @@ app.get('/users', (req, res) => {
         res.json(JSON.parse(data));
     });
 });
+app.get('/vendor', (req, res) => {
+    const dbPath = path.join(__dirname, 'vendor.json');
+    fs.readFile(dbPath, 'utf-8', (err, data) => {
+        if (err) {
+            return res.status(500).send('Error reading the database file');
+        }
+        res.json(JSON.parse(data));
+    });
+});
 
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
