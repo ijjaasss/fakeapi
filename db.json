@@ -1,0 +1,93 @@
+[
+    {
+      "UserId": "1",
+      "UserName": "AliceSmith",
+      "Mobile": 9876543210,
+      "HashPassword": "hashed_password_1",
+      "isBlock": false,
+      "role": "user",
+      "DateTime": "2024-12-14"
+    },
+    {
+      "UserId": "2",
+      "UserName": "BobJohnson",
+      "Mobile": 8765432109,
+      "HashPassword": "hashed_password_2",
+      "isBlock": false,
+      "role": "user",
+      "DateTime": "2024-12-13"
+    },
+    {
+      "UserId": "3",
+      "UserName": "CharlieBrown",
+      "Mobile": 7654321098,
+      "HashPassword": "hashed_password_3",
+      "isBlock": true,
+      "role": "user",
+      "DateTime": "2024-12-12"
+    },
+    {
+      "UserId": "4",
+      "UserName": "DavidWilliams",
+      "Mobile": 6543210987,
+      "HashPassword": "hashed_password_4",
+      "isBlock": false,
+      "role": "user",
+      "DateTime": "2024-12-11"
+    },
+    {
+      "UserId": "5",
+      "UserName": "EvaDavis",
+      "Mobile": 5432109876,
+      "HashPassword": "hashed_password_5",
+      "isBlock": false,
+      "role": "user",
+      "DateTime": "2024-12-10"
+    },
+    {
+      "UserId": "6",
+      "UserName": "FrankMartinez",
+      "Mobile": 4321098765,
+      "HashPassword": "hashed_password_6",
+      "isBlock": true,
+      "role": "user",
+      "DateTime": "2024-12-09"
+    },
+    {
+      "UserId": "7",
+      "UserName": "GraceGarcia",
+      "Mobile": 3210987654,
+      "HashPassword": "hashed_password_7",
+      "isBlock": false,
+      "role": "user",
+      "DateTime": "2024-12-08"
+    },
+    {
+      "UserId": "8",
+      "UserName": "HankLopez",
+      "Mobile": 2109876543,
+      "HashPassword": "hashed_password_8",
+      "isBlock": false,
+      "role": "user",
+      "DateTime": "2024-12-07"
+    },
+    {
+      "UserId": "9",
+      "UserName": "IvyWilson",
+      "Mobile": 1098765432,
+      "HashPassword": "hashed_password_9",
+      "isBlock": true,
+      "role": "user",
+      "DateTime": "2024-12-06"
+    },
+    {
+      "UserId": "10",
+      "UserName": "JackMoore",
+      "Mobile": 9876123456,
+      "HashPassword": "hashed_password_10",
+      "isBlock": false,
+      "role": "user",
+      "DateTime": "2024-12-05"
+    }
+  ]
+  
