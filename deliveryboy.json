@@ -1,0 +1,113 @@
+[
+    {
+      "zipcode": 1234567890,
+      "id": "1",
+      "name": "John Doe",
+      "drivinglicense": "DL1234567",
+      "email": "john.doe@example.com",
+      "IsBlock": false,
+      "mobile": "9876543210",
+      "password": "securepassword123",
+      "role": "deliveryboy"
+    },
+    {
+      "zipcode": 2345678901,
+      "id": "2",
+      "name": "Jane Smith",
+      "drivinglicense": "DL2345678",
+      "email": "jane.smith@example.com",
+      "IsBlock": false,
+      "mobile": "8765432109",
+      "password": "anotherpassword456",
+      "role": "deliveryboy"
+    },
+    {
+      "zipcode": 3456789012,
+      "id": "3",
+      "name": "Tom Johnson",
+      "drivinglicense": "DL3456789",
+      "email": "tom.johnson@example.com",
+      "IsBlock": true,
+      "mobile": "7654321098",
+      "password": "mypassword789",
+      "role": "deliveryboy"
+    },
+    {
+      "zipcode": 4567890123,
+      "id": "4",
+      "name": "Emily Davis",
+      "drivinglicense": "DL4567890",
+      "email": "emily.davis@example.com",
+      "IsBlock": false,
+      "mobile": "6543210987",
+      "password": "password012",
+      "role": "deliveryboy"
+    },
+    {
+      "zipcode": 5678901234,
+      "id": "5",
+      "name": "Michael Brown",
+      "drivinglicense": "DL5678901",
+      "email": "michael.brown@example.com",
+      "IsBlock": false,
+      "mobile": "5432109876",
+      "password": "securepassword345",
+      "role": "deliveryboy"
+    },
+    {
+      "zipcode": 6789012345,
+      "id": "6",
+      "name": "Sarah Lee",
+      "drivinglicense": "DL6789012",
+      "email": "sarah.lee@example.com",
+      "IsBlock": true,
+      "mobile": "4321098765",
+      "password": "password678",
+      "role": "deliveryboy"
+    },
+    {
+      "zipcode": 7890123456,
+      "id": "7",
+      "name": "David Wilson",
+      "drivinglicense": "DL7890123",
+      "email": "david.wilson@example.com",
+      "IsBlock": false,
+      "mobile": "3210987654",
+      "password": "password789",
+      "role": "deliveryboy"
+    },
+    {
+      "zipcode": 8901234567,
+      "id": "8",
+      "name": "Laura Miller",
+      "drivinglicense": "DL8901234",
+      "email": "laura.miller@example.com",
+      "IsBlock": false,
+      "mobile": "2109876543",
+      "password": "password890",
+      "role": "deliveryboy"
+    },
+    {
+      "zipcode": 9012345678,
+      "id": "9",
+      "name": "James Moore",
+      "drivinglicense": "DL9012345",
+      "email": "james.moore@example.com",
+      "IsBlock": false,
+      "mobile": "1098765432",
+      "password": "password901",
+      "role": "deliveryboy"
+    },
+    {
+      "zipcode": 1234509876,
+      "id": "10",
+      "name": "Sophia Taylor",
+      "drivinglicense": "DL1234509",
+      "email": "sophia.taylor@example.com",
+      "IsBlock": true,
+      "mobile": "9876543210",
+      "password": "securepassword234",
+      "role": "deliveryboy"
+    }
+  ]
+  
