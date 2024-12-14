@@ -6,6 +6,7 @@ const app = express();
 const port = process.env.PORT || 3000;
 
 // Serve the db.json file
+app.use(cors());
 app.get('/users', (req, res) => {
     const dbPath = path.join(__dirname, 'db.json');
     fs.readFile(dbPath, 'utf-8', (err, data) => {
