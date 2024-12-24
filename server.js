@@ -34,6 +34,16 @@ app.get('/deliveryboy', (req, res) => {
         res.json(JSON.parse(data));
     });
 });
+app.get('/login', (req, res) => {
+    const dbPath = path.join(__dirname, 'login.json');
+    fs.readFile(dbPath, 'utf-8', (err, data) => {
+        if (err) {
+            return res.status(500).send('Error reading the database file');
+        }
+        res.json(JSON.parse(data));
+    });
+});
+
 
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);

@@ -1,0 +1,17 @@
+[
+   {
+    "username":"user1",
+    "password":"user123",
+    "role":"user"
+   } ,
+   {
+    "username":"vendor1",
+    "password":"vendor123",
+    "role":"vendor"
+   } ,
+   {
+    "username":"admin1",
+    "password":"admin123",
+    "role":"admin"
+   } 
+]
