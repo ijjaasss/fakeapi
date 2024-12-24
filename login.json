@@ -1,16 +1,16 @@
 [
    {
-    "username":"user1",
+    "email":"user1@gmail.com",
     "password":"user123",
     "role":"user"
    } ,
    {
-    "username":"vendor1",
+    "email":"vendor1@gmail.com",
     "password":"vendor123",
     "role":"vendor"
    } ,
    {
-    "username":"admin1",
+    "email":"admin1@gmail.com",
     "password":"admin123",
     "role":"admin"
    } 
