@@ -1,0 +1,8 @@
+[
+    { "id": 364829, "customerName": "bob", "service": "mobile repair", "amount": 500, "date": "2024-12-20", "delivered": true },
+    { "id": 213958, "customerName": "martin", "service": "speaker repair", "amount": 1200, "date": "2024-12-18", "delivered": true },
+    { "id": 948570, "customerName": "jafer", "service": "tv repair", "amount": 300, "date": "2024-12-15", "delivered": false },
+    { "id": 574839, "customerName": "jhon", "service": "mobile repair", "amount": 700, "date": "2024-12-10", "delivered": false },
+    { "id": 982634, "customerName": "simson", "service": "speaker repair", "amount": 1000, "date": "2024-12-05", "delivered": true }
+]
+  

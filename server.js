@@ -43,6 +43,15 @@ app.get('/login', (req, res) => {
         res.json(JSON.parse(data));
     });
 });
+app.get('/vendor/service', (req, res) => {
+    const dbPath = path.join(__dirname, 'ServiceVendor.json');
+    fs.readFile(dbPath, 'utf-8', (err, data) => {
+        if (err) {
+            return res.status(500).send('Error reading the database file');
+        }
+        res.json(JSON.parse(data));
+    });
+});
 
 
 app.listen(port, () => {
