@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "name": "air conditioner repair",
+    "name": "headphone repair",
     "client": "Michael Johnson",
     "dueDate": "2024-12-27",
     "status": "Pending",
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "name": "washing machine repair",
+    "name": "laptop repair",
     "client": "Sarah Lee",
     "dueDate": "2024-12-31",
     "status": "Pending",
@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "name": "microwave repair",
+    "name": "mobile repair",
     "client": "David Brown",
     "dueDate": "2024-12-25",
     "status": "Pending",
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "name": "dishwasher repair",
+    "name": "speaker repair",
     "client": "Sophia Taylor",
     "dueDate": "2024-12-30",
     "status": "Pending",
@@ -89,7 +89,7 @@
   },
   {
     "id": 9,
-    "name": "refrigerator repair",
+    "name": "tv repair",
     "client": "James Harris",
     "dueDate": "2024-12-26",
     "status": "Pending",
@@ -100,7 +100,7 @@
   },
   {
     "id": 10,
-    "name": "vacuum cleaner repair",
+    "name": "mobile repair",
     "client": "Olivia Clark",
     "dueDate": "2024-12-28",
     "status": "Pending",
