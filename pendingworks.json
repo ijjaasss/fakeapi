@@ -9,7 +9,7 @@
     "amount": 1000,
     "sellingAmount": 2000,
     "waitingForResponse": false,
-    "return": false
+    "return": true
   },
   {
     "id": 2,
